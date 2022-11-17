@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b560e7a8-a9d1-4c2b-8f81-0d6dd0905432" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/www.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicesjavascript/.idea/Exercicesjavascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicesjavascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/modeles/Administration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/modeles/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/modeles/articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/modeles/pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/accueil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/connexionUtilisateurVue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/detailsArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/inscriptionUtilisateurVue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/splachpage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet-tacos-MVC/vues/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.idea/ProjetAnnonces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/controleurs/controleurArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/controleurs/controleurUtilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/modeles/articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/modeles/connexionUtilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/modeles/inscriptionUtilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/modeles/pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/accueil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/connexionUtilisateurVue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/deconnectUtilisateurVue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/detailsArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/inscriptionUtilisateurVue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/splachpage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetAnnonces/vues/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/assets/js/anim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/controleurs/AdministrateurControleur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/controleurs/ArticlesControleur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/controleurs/CategoriesControleur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/modeles/Administrateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/modeles/Articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/modeles/Categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/modeles/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/accueil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/administration/ajouterAdministrateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/administration/inscriptionAdmin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/administration/supprimAdmin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/articles/ajouterArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/articles/detailsArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/articles/editerArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/articles/supprimerArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/carte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/splashpage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetTacosMVC/vues/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/.idea/Reserv_Gites.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/modeles/Reservation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/AjoutGite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/Confirmation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/Deconnexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/MiseJourGite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/ReservationV.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/SupprimGite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reserv_Gites/pages/detailGite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crudExpress/.idea/crudExpress.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crudExpress/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crudExpress/nodeModule/produits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crudExpress/nodeModule/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressjs/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressjs/.idea/expressJs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressjs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressjs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expressjs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/.idea/javascriptAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/js/produits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/produits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptAPI/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptTest/.idea/javascriptTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptTest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascriptTest/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/.idea/projetReact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/liste-tache/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetReact/liste-tache/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Src/components/AjouterProduit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Src/components/ProduitComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetVuejs/Src/views/Produit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-crud-hooks/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saida.php/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saida.php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saida.php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saida.php/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/.idea/saidaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/config/packages/knp_paginator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/templates/inclouds/footer.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/templates/inclouds/menu.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/templates/produits/detailsProduit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saidaProject/templates/produits/humain.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/.idea/testJavascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/robes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/robes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavascript/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuejs/.idea/vuejs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuejs/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuejs/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Gz0du3B1Jt91SX2I2e1lPIOzzN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetAnnonces" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b560e7a8-a9d1-4c2b-8f81-0d6dd0905432" name="Default Changelist" comment="" />
+      <created>1667376195385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667376195385</updated>
+      <workItem from="1667376196407" duration="19000" />
+      <workItem from="1667376240339" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1060" y="68" key="FileChooserDialogImpl" timestamp="1667376247421">
+      <screen x="-1680" y="-192" width="1680" height="1010" />
+    </state>
+    <state x="-1060" y="68" key="FileChooserDialogImpl/0.0.1366.728/-1680.-192.1680.1010@-1680.-192.1680.1010" timestamp="1667376247421" />
+  </component>
+</project>
